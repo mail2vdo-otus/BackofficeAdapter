@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="backofficeadapter" type="JarApplication" singleton="false">
+    <option name="JAR_PATH" value="$PROJECT_DIR$/target/BackofficeAdapter-1.0-SNAPSHOT.jar" />
+    <option name="WORKING_DIRECTORY" value="$USER_HOME$" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <module name="BackofficeAdapter" />
+    <method v="2" />
+  </configuration>
+</component>
