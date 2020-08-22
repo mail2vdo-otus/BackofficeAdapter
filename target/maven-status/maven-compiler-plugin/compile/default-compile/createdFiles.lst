@@ -1,4 +1,6 @@
 org/vorobiev/backofficeAdapter/Application.class
 org/vorobiev/backofficeAdapter/Deal.class
 org/vorobiev/backofficeAdapter/Client.class
+org/vorobiev/backofficeAdapter/JmsConfig.class
 org/vorobiev/backofficeAdapter/ProcessDealInfo.class
+org/vorobiev/backofficeAdapter/listener.class
