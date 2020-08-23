@@ -19,7 +19,7 @@ public class ProcessDealInfo {
 
     @GetMapping("/version")
     public ResponseEntity<String> getVersion() throws InterruptedException {
-        return new ResponseEntity<String>("{\"version\": \""+"0.01"+"''\"}", HttpStatus.OK);
+        return new ResponseEntity<String>("{\"version\": \""+"0.02"+"''\"}", HttpStatus.OK);
     }
 
 

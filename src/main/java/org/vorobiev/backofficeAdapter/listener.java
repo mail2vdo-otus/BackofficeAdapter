@@ -13,7 +13,7 @@ import javax.jms.JMSException;
 
 @Component
 public class listener {
-
+    @Autowired
     @Qualifier("JmsTemplateQueue")
     private JmsTemplate jmsQueueTemplate;
 
